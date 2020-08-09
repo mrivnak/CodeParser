@@ -2,7 +2,6 @@ package lexican;
 
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class Lexican {
     String data;
